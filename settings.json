@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "scaryguy147.aternos.me:",
+    "ip": "scaryguy147.aternos.me",
     "port": 12871,
     "version": "",
     "try-creative": false
