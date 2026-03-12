@@ -7,7 +7,9 @@
   },
   "server": {
     "ip": "scaryguy147.aternos.me",
-    "port": 12871,
+    "port": 52031
+
+,
     "version": "",
     "try-creative": false
   },
