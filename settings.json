@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sailfish.aternos.host:52031",
+    "ip": "sailfish.aternos.host",
     "port": 52031
 
 ,
