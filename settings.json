@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "bot",
   "bot-account": {
-    "username": "imgonnapoo",
+    "username": "was__",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "scaryguy147.aternos.me:52031",
-    "port": 52031
+    "ip": "Cookiesmppp.aternos.me",
+    "port": 56322
 
 ,
     "version": "1.21.11",
